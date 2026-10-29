@@ -1,0 +1,1476 @@
+{
+  "@@locale": "te",
+  "@@last_modified": "2026-10-07T09:49:54Z",
+  "Onboarding": {
+    "_note": "Text a new partner sees while signing up, from language choice through verification.",
+    "Home Screen": {
+      "joinVoiceClub": "Join VoiceClub",
+      "makeLifeEasy": "and make your life easier",
+      "continue": "Continue"
+    },
+    "Login Screen": {
+      "loginOrSignup": "Login or Signup",
+      "enterYourNumber": "Enter your phone number",
+      "signUpAccept": "By signing up, you accept our ",
+      "privacyPolicy": "Privacy Policy",
+      "termsAndConditions": "Terms & Conditions",
+      "and": "and",
+      "privacyPolicyUrl": "https://voiceclub.app/privacy-policy/",
+      "termsAndRefundsUrl": "https://voiceclub.app/term-refunds/"
+    },
+    "OTP Screen": {
+      "otpVerification": "OTP Verification",
+      "verificationCodeSent": "We have sent a verification code\non ",
+      "didntReceiveOtp": "Didn't receive OTP?",
+      "resend": "Resend",
+      "or": "or",
+      "changeNumber": "Change Number"
+    },
+    "Welcome Video Screen": {
+      "welcomeToVoiceClubPartner": "Welcome to VoiceClub Partner"
+    },
+    "Face Verification Screen": {
+      "startVerification": "Start Verification",
+      "takePicture": "Take a Picture",
+      "downloadVoiceClubApp": "Download the VoiceClub App",
+      "bringFaceInsideBox": "Bring your face inside the box.",
+      "hiringFemalePartners": "Sorry! We are only hiring female partners",
+      "faceVerificationCompleted": "Face Verification Completed",
+      "tryAgain": "Try Again",
+      "retake": "Retake",
+      "photoWontAppearOnProfile": "Don't worry this photo won't appear on your profile",
+      "openCamera": "Open Camera",
+      "userAppPlayStoreUrl": "https://play.google.com/store/apps/details?id=com.cplock.voice_club&hl=en_IN&gl=US"
+    },
+    "Earning Potential Screen": {
+      "youCanEarn": "You can earn",
+      "perMonthIfYou": "per month, if you work for",
+      "hours": "hours",
+      "workDoing": "daily.",
+      "dailyEarningsAssumption": "*Assuming you earn @perDayValue+ daily if you work for",
+      "hoursOfWork": "hours a day."
+    },
+    "Questions": {
+      "completeProfileAnd": "Complete your profile and earn",
+      "months": "month",
+      "replay": "Replay"
+    },
+    "Age Group Question": {
+      "below": "Below 18",
+      "above": "Above 35",
+      "whatIsYourAgeGroup": "What is your age group?",
+      "mandatory": "Mandatory"
+    },
+    "Name Question": {
+      "whatIsYourName": "What is your name?",
+      "firstName": "First name",
+      "lastName": "Last name"
+    },
+    "Language Question": {
+      "chooseAnotherLanguage": "Choose another language?",
+      "chooseTwoLanguages": "You can choose 2 languages. Would you like to continue?",
+      "cancel": "Cancel",
+      "chooseLanguage": "Choose Language",
+      "chooseComfortableLanguage": "Choose a language you are comfortable talking in",
+      "max": "Max"
+    },
+    "Marital Question": {
+      "married": "Married",
+      "unmarried": "Unmarried",
+      "divorced": "Divorced",
+      "maritalStatus": "What is your marital status?"
+    },
+    "Education Question": {
+      "pass": "Pass",
+      "bachelor": "Bachelor",
+      "master": "Master",
+      "highestEducation": "What is your highest education?",
+      "bachelorDegree": "Bachelor Degree",
+      "masterDegree": "Master Degree"
+    },
+    "Religion Question": {
+      "hindu": "Hindu",
+      "muslim": "Muslim",
+      "christian": "Christian",
+      "others": "Other",
+      "selectReligion": "Select your Religion"
+    },
+    "Account Verification Screen": {
+      "accountVerification": "Account Verification",
+      "havePanCard": "Do you have PAN Card?",
+      "needToAccept": "You need to accept to our",
+      "toContinue": "to continue",
+      "kycVerification": "KYC Verification"
+    },
+    "Audio Verification": {
+      "minimumThreeSeconds": "Minimum 3 seconds",
+      "minRecordingDuration": "Minimum recording duration should be 3 seconds",
+      "audioVerification": "Audio Verification",
+      "micButtonInstruction": "Hold the mic button and say, \"Hi! My name is Priya, and I am from Kolkata.\"",
+      "reRecord": "Re-Record",
+      "audioNotUsed": "Don't worry this audio won't be used on your profile"
+    },
+    "Under Review": {
+      "underReview": "Under Review",
+      "profileUnderReview": "Your profile is under review. Please wait for at least 5-7 days ",
+      "startEarning": "to start earning"
+    },
+    "Congratulations Screen": {
+      "congratulations": "Congratulations",
+      "pending": "Pending",
+      "downloadedSuccessfully": "Downloaded Successfully",
+      "agreementSaved": "Your agreement has been saved to files",
+      "somethingWentWrong": "Something went wrong",
+      "pleaseTryAgain": "Please try again",
+      "profileVerified": "Your profile has been verified",
+      "accountUnderProcess": "Your account is under process; you will receive your account details within 4-6 hours.",
+      "signAgreement": "Sign Agreement",
+      "completeCourse": "Complete Course",
+      "downloadPartnerAPK": "Download Partner APK",
+      "signHere": "Sign Here",
+      "clear": "Clear",
+      "agreement": "Agreement",
+      "voiceClubPartnerCourse": "VoiceClub Partner Course",
+      "chapter": "Chapter"
+    },
+    "Below Eighteen Screen": {
+      "ageVerification": "Age Verification",
+      "notEligible": "You are not eligible to join yet",
+      "unfortunately": "Unfortunately, ",
+      "mustBe18": "you must be 18+",
+      "toJoinYet": " to join as a VoiceClub Partner. We look forward to having you join us once you turn 18!",
+      "okay": "Okay"
+    },
+    "Verified Screen": {
+      "youAreVerified": "You're verified!",
+      "verificationFailed": "Verification Failed",
+      "yourProfileIsNow": "Your profile is now ",
+      "verified": "VERIFIED",
+      "youCanNowStartEarning": ", you can now start earning",
+      "yourProfile": "Your profile ",
+      "failed": "Failed ",
+      "toVerifyTryAgain": "to verify, Please try again!"
+    },
+    "Language selection": {
+      "pleaseSelectLanguage": "Please select a language to continue.",
+      "languageUpdateFailed": "An error occurred while updating the language."
+    },
+    "Hiring paused": {
+      "_note": "Change only the words on the right. Leave the names on the left as they are.",
+      "hiringPausedTitle": "Thank you for your interest.\nWe're not hiring currently.",
+      "hiringPausedSubtitle": "We will get back to you\nsoon!"
+    },
+    "Personal details": {
+      "_note": "Change only the words on the right. Leave the names on the left as they are.",
+      "personalDetails": "Personal Details",
+      "homeScreen": "Home Screen",
+      "tenthPass": "10th Pass",
+      "twelfthPass": "12th Pass",
+      "hoursChip": "@hours hrs"
+    },
+    "Interview result": {
+      "_note": "Change only the words on the right. Leave the names on the left as they are.",
+      "yourResult": "Your Result",
+      "interviewPassedMessage": "You have successfully been onbaoarded. One last step!",
+      "interviewNotSelected": "Unfortunately, you have not been selected."
+    },
+    "Agreement": {
+      "_note": "Change only the words on the right. Leave the names on the left as they are.",
+      "offerLetter": "Offer Letter",
+      "signOfferLetter": "Sign Offer Letter",
+      "signedOfferLetter": "Signed Offer Letter",
+      "downloadPdf": "Download PDF",
+      "completeOnboarding": "Complete Onboarding",
+      "technicalIssue": "Technical Issue",
+      "technicalIssueBody": "Due to some technical failure we were unable to create your profile, please try again by clicking the below button.",
+      "couldNotUploadPdf": "Could not upload PDF",
+      "couldNotUpdateSignDocument": "Could not update sign document",
+      "couldNotShowSignedPdf": "Could not show signed PDF",
+      "pleaseTryAgainLater": "Please try again later.",
+      "logout": "Logout",
+      "stepNumber": "Step @step"
+    },
+    "Location": {
+      "_note": "Change only the words on the right. Leave the names on the left as they are.",
+      "locationServiceDisabled": "Location Service Disabled",
+      "pleaseAllowLocationService": "Please allow location service",
+      "locationPermissionDisabled": "Location permission disabled",
+      "pleaseAllowLocationPermission": "Please allow location permission",
+      "settings": "Settings"
+    },
+    "Camera": {
+      "_note": "Change only the words on the right. Leave the names on the left as they are.",
+      "cameraPermissionRequired": "Camera Permission Required",
+      "cameraAccessRequiredBrowser": "Camera access is required for face verification. Please enable it in your browser settings to proceed.",
+      "toEnableCameraAccess": "To enable camera access:",
+      "clickLockIcon": "1. Click the lock/info icon in your browser's address bar",
+      "findCameraInPermissions": "2. Find 'Camera' in the permissions list",
+      "changeSettingToAllow": "3. Change the setting to 'Allow'",
+      "refreshThePage": "4. Refresh the page",
+      "openSettings": "Open Settings",
+      "cameraAccessDenied": "Camera Access Denied",
+      "pleaseAllowCameraAccess": "Please allow camera access to proceed with face verification.",
+      "errorTitle": "Error",
+      "ok": "OK",
+      "cameraPermissionError": "An error occurred while requesting camera permission. Please try again.",
+      "cameraError": "Camera Error",
+      "cameraNotAvailable": "Camera Not Available",
+      "livenessCheckFailed": "Liveness Check Failed",
+      "livenessUnexpectedError": "An unexpected error occurred during liveness verification",
+      "validationFailed": "Validation failed"
+    },
+    "Videos": {
+      "_note": "Each language file has its own video link. Replace the link on the right if the video changes. Leave the name on the left as it is. Leave a link empty when this language has no video for that step.",
+      "meetingOneVideo": "https://vc-cdn.capslockmarketplaces.com/telugu/Comp-Telugu-M1-vc-v1.mp4",
+      "testimonialVideo": "https://vc-cdn.capslockmarketplaces.com/telugu/Comp-Telugu-FaceVerification-vc-v2.mp4",
+      "agreementVideo": "https://assets.capslockmarketplaces.com/3168a6a2-0aaa-42ca-8401-5a531756d372.mp4"
+    }
+  },
+  "Journey": {
+    "_note": "Lessons holds lesson titles, videos, quizzes, and showcase flows. Demo holds the practice-app and quiz screen sentences. Tooltips holds the lesson and quiz buttons. Leave the names on the left as they are.",
+    "Tooltips": {
+      "journeyStageNumber": "Stage @stage",
+      "watchNow": "Watch Now",
+      "rewatch": "Re-watch",
+      "sampleLesson": "Sample Lesson",
+      "noLessonsInThisStage": "\nNo lessons in this stage.",
+      "startDemoQuiz": "Start DEMO Quiz",
+      "startMcqQuiz": "Start MCQ Quiz",
+      "stageComplete": "Stage Complete",
+      "stageNotComplete": "Stage Not Complete",
+      "pleaseWatchCourseAgain": "Please watch the course again",
+      "rewatchCourses": "Rewatch Courses",
+      "retryQuiz": "Retry Quiz"
+    },
+    "Demo": {
+      "quizTitle": "Quiz",
+      "quizQuestionProgress": "Question @current of @total",
+      "demoQuestionLabel": "Question",
+      "demoProceed": "Proceed",
+      "demoPerformAction": "Please show by performing the action!",
+      "demoBackToCourses": "Back to Courses",
+      "demoCongratulations": "Congratulations",
+      "demoPerfect": "Perfect",
+      "demoOnboardingComplete": "\nYou have completed the onboarding!",
+      "demoUnlockedStage": "\nYou have unlocked Stage-@stage",
+      "demoPassedStage": "\nYou have successfully passed @stage",
+      "demoAnsweredCorrectly": "\nYou answered the question correctly!",
+      "demoNext": "Next",
+      "demoCongratulationsBang": "Congratulations!!",
+      "demoAmongThe": "You are among the ",
+      "demoTop20": "Top 20%",
+      "demoTop10": "Top 10%",
+      "demoMovedTo": " who have successfully moved to",
+      "demoNewLive": "NEW LIVE",
+      "demoLive": "LIVE",
+      "demoAreYouSure": "Are you sure?",
+      "demoProgressDeleted": "Your current progress will be deleted.",
+      "demoYesGoToCourses": "Yes, Go to courses",
+      "demoNo": "No",
+      "demoYes": "Yes",
+      "demoAppTitle": "VC DEMO APP",
+      "demoHelp": "Help",
+      "demoActiveStatus": "Active Status",
+      "demoGoOnline": "Go online to start taking calls",
+      "demoOffline": "Offline",
+      "demoBusy": "Busy",
+      "demoOnline": "Online",
+      "demoDailyRewards": "Daily\nRewards",
+      "demoDailyRewardsTitle": "Daily Rewards",
+      "demoSeeAll": "See All ",
+      "demoWalletBalance": "Wallet Balance",
+      "demoPayoutDate": "Payout Date : @date ",
+      "demoSeeDetails": "See Details ",
+      "demoOverview": "Overview",
+      "demoToday": "Today",
+      "demoYesterday": "Yesterday",
+      "demoThisWeek": "This Week",
+      "demoLastWeek": "Last Week",
+      "demoThisMonth": "This Month",
+      "demoLastMonth": "Last Month",
+      "demoEarning": "Earning",
+      "demoMinutes": "Minutes",
+      "demoCalls": "Calls",
+      "demoMissed": "Missed",
+      "demoYourScore": "Your Score",
+      "demoYourScoreBreak": "Your\nScore",
+      "demoMetrics": "Metrics",
+      "demoNotificationOff": "Notification Off",
+      "demoNotificationOn": "Notification On",
+      "demoTurnNotification": "Are you sure you want to turn @state the notification",
+      "demoOff": "off",
+      "demoOn": "on",
+      "demoHome": "Home",
+      "demoLogs": "Logs",
+      "demoChat": "Chat",
+      "demoManagerName": "Manager: @name",
+      "demoVcPartnerDemo": "VC Partner Demo",
+      "demoPhone": "Phone",
+      "demoRecordVoices": "Record Your Voices",
+      "demoContactManager": "Contact your Manager",
+      "demoRaiseComplaint": "Raise Complaint",
+      "demoDeviceHealth": "Device Health & Troubleshooting",
+      "demoNotifications": "Notifications",
+      "demoBlocklist": "Blocklist",
+      "demoPrivacyPolicy": "Privacy Policy",
+      "demoLogout": "Logout",
+      "demoNoBlockedUsers": "No blocked users.",
+      "demoUnblockConfirm": "Are you sure you want to unblock this user?",
+      "demoUnblock": "Unblock",
+      "demoBlockReason": "Reason for blocking @name?",
+      "demoBlocked": "Blocked",
+      "demoBlockedSuccess": "@name was successfully blocked.",
+      "demoBlock": "Block",
+      "demoBlockPersonal": "Asked for Personal Information",
+      "demoBlockSexual": "Sexual Conversation",
+      "demoBlockHarassment": "Harassing on Call",
+      "demoTypeMessage": "Type your message...",
+      "demoAlert": "Alert",
+      "demoMinMessageLength": "Minimum message length is @min characters.",
+      "demoMaxMessageLength": "Maximum message length is @max characters.",
+      "demoSendBroadcast": "Send Broadcast",
+      "demoSendBroadcastConfirm": "Are you sure you want to send this message to @count users?",
+      "demoBroadcastSent": "Broadcast Message Sent",
+      "demoMessageSentToUsers": "Your message was sent to the selected users.",
+      "demoSendMessage": "Send Message",
+      "demoMinRecording": "Minimum recording duration should be 5 seconds.",
+      "demoSendConfirmShort": "Are you sure you want to send this message",
+      "demoThemes": "Themes",
+      "demoApplyTheme": "Apply Theme",
+      "demoSend": "Send",
+      "demoStickers": "Stickers",
+      "demoSelectChatFilter": "Select chat group filter",
+      "demoCall1to3": "Call 1-3",
+      "demoEarlyFriends": "Your early friends - spoken upto 3 times",
+      "demoCall4to9": "Call 4-9",
+      "demoGoodFriends": "Your good friends - spoken between 4-9 times",
+      "demoOver9Calls": "Over 9 calls",
+      "demoBestFriends": "Your best friends - spoken over 10 times",
+      "demoBroadcastTitle": "Broadcast: @name",
+      "demoSelectedCount": "@count/20 selected",
+      "demoSelectAllUsers": "Select All Users",
+      "demoCallHistory": "Call History",
+      "demoNoCallsYet": "No calls yet.",
+      "demoDuration": "Duration",
+      "demoEarningsHeader": "Earnings",
+      "demoCaller": "Caller",
+      "demoAnon": "Anon",
+      "demoCallDuration": "Call Duration",
+      "demoCallStartTime": "Call Start Time",
+      "demoCallEndTime": "Call End Time",
+      "demoAmountWithinDay": "Amount will reflect within 1 day",
+      "demoDidNotSendAudio": "Did not send audio message",
+      "demoCallEndReason": "Call End Reason",
+      "demoTransactions": "Transactions",
+      "demoDeducted": "Deducted",
+      "demoPending": "Pending",
+      "demoNoEarning": "No earning",
+      "demoNewUserBang": "New User!",
+      "demoPleaseSendAudio": "Please send an audio message.",
+      "demoReverseCall": "Reverse Call",
+      "demoPlacedReverseCall": "Placed Reverse Call to @name",
+      "demoCall": "Call",
+      "demoYouSendNotification": "You send notification ",
+      "demoBlockNamed": "Block @name",
+      "demoNoMessages": "No messages yet.",
+      "demoChatsTitle": "@tab Chats",
+      "demoSearch": "Search",
+      "demoNoChats": "No chats yet.",
+      "demoBestFriend": "Best Friend",
+      "demoCallLogs": "Call Logs",
+      "demoNoCallsFound": "No calls found.",
+      "demoSuccess": "Success",
+      "demoAudioSent": "Audio notification sent successfully!",
+      "demoAlreadyBlocked": "@name is already blocked!",
+      "demoBlockUser": "Block User",
+      "demoManagersFeedback": "Manager's Feedback",
+      "demoNoFeedbacks": "No Feedbacks yet",
+      "demoKamMeetings": "KAM Meetings",
+      "demoNoMeetings": "No Scheduled Meetings",
+      "demoStage1Mock": "Stage 1 Mock Screen",
+      "demoChatRewards": "Chat Rewards",
+      "demo30MinReward": "30 Min Reward",
+      "demoCall30Min": "Call the below user for at least 30 minutes to earn extra ₹5",
+      "demoNoUsersFound": "No users found.",
+      "demoCallFailed": "Call Failed",
+      "demoTryAgain": "Please try again later",
+      "demoCallButton": "Call ",
+      "demoReverseCalls": "Reverse Calls",
+      "demo30MinCallReward": "30 Min Call Reward",
+      "demoOnlineDuration": "Online Duration",
+      "demoRemaining": "@count remaining",
+      "demoTimeRemaining": "@time remaining",
+      "demoYouSentSticker": "You sent @name a sticker",
+      "demoSentYouSticker": "@name sent you a sticker",
+      "demoYouSentAudio": "You sent @name an audio notification",
+      "demoSentYouAudio": "@name sent you an audio notification",
+      "demoCallNow": "Call Now",
+      "demoUserOnline": "@name is online. Call now!",
+      "demoYouSentNotification": "You sent @name a notification.",
+      "demoNotesWith": "Notes with @name",
+      "demoNickname": "Nickname",
+      "demoAddNickname": "Add nickname",
+      "demoAge": "Age",
+      "demoRelationship": "Relationship",
+      "demoSelect": "Select",
+      "demoProfession": "Profession",
+      "demoAddNote": "Add a note",
+      "demoNewUser": "New User",
+      "demoSendAudioTo": "Send an audio to @name",
+      "demoAndGetAmount": "and get ₹@amount",
+      "demoTimeLeft": "Time Left @time",
+      "demoTimeLeftZero": "Time Left 00:00:00",
+      "demoMessageHint": "Message",
+      "demoAudioRecordingSent": "Audio Recording Sent",
+      "demoAll": "All",
+      "demoGoodUser": "Good User",
+      "demoReply": "Reply",
+      "demoBusyLog": "Busy",
+      "demoViewed": "Viewed",
+      "demoPenalty": "Penalty",
+      "demoReward": "Reward",
+      "demoPayout": "Payout",
+      "demoGift": "Gift",
+      "demoRefunds": "Refunds",
+      "demoMarried": "Married",
+      "demoUnmarried": "Unmarried",
+      "demoDivorced": "Divorced",
+      "demoInRelationship": "Relationship",
+      "demoTeacher": "Teacher",
+      "demoFarmer": "Farmer",
+      "demoPoliceOfficer": "Police Officer",
+      "demoDriver": "Driver",
+      "demoAutoDriver": "Auto Driver",
+      "demoBusDriver": "Bus Driver",
+      "demoNurse": "Nurse",
+      "demoPharmacist": "Pharmacist",
+      "demoGymTrainer": "Gym Trainer",
+      "demoMechanic": "Mechanic",
+      "demoFactoryWorker": "Factory Worker",
+      "demoDeliveryRider": "Delivery Rider",
+      "demoBarber": "Barber",
+      "demoSalesEmployee": "Sales Employee",
+      "demoShopManager": "Shop Manager",
+      "demoOfficeClerk": "Office Clerk",
+      "demoConstructionWorker": "Construction Worker",
+      "demoTailor": "Tailor",
+      "demoShopkeeper": "Shopkeeper",
+      "demoSecurityGuard": "Security Guard",
+      "demoPlumber": "Plumber",
+      "demoRailwayEmployee": "Railway Employee",
+      "demoBusConductor": "Bus Conductor",
+      "demoMobileRepair": "Mobile Repair Worker",
+      "demoCarpenter": "Carpenter",
+      "demoElectrician": "Electrician",
+      "demoOther": "Other",
+      "demoEarningWith": "Earning with @name",
+      "demoMoneyWithdrawnSuccess": "Money Withdrawn Succesfully",
+      "demoChatWith": "Chat with @name",
+      "demoChatCountOn": "@count chat on @date",
+      "demoDailyPenaltyOnline": "Daily Penalty for Online Duration",
+      "demoOnlineHoursDate": "Online: @hours hours. Date: @date",
+      "demoPenaltyCallRejection": "Penalty for Call Rejection",
+      "demoPenaltyRejectDetail": "Penalty for rejecting more than 3 calls. Time: @date",
+      "demoUserConversion": "User Conversion Incentive",
+      "demoIncentiveTalk": "You have received an incentive for 30 mins of talk with @name",
+      "demoDailyRewardOnline": "Daily Reward for Online Duration",
+      "demoMoneyWithdrawn": "Money withdrawn",
+      "demoMoneyWithdrawnOk": "Money withdrawn successfully",
+      "demoGiftFrom": "Gift received from @name",
+      "demoChocolateAt": "Chocolate received at @date",
+      "demoDeclinedByUser": "Declined by user",
+      "demoEarningVarsha": "Earning with miss u varsha",
+      "demoHiThere": "Hi there how are you?",
+      "demoWhatDoingHi": "kya kar rahe ho aap?",
+      "demoHowDoYouDo": "How do you do?",
+      "demoWhatAreYouDoing": "What are you doing?",
+      "demoPoints": "points",
+      "demoAvgCallOld": "Average Call Duration (Old Users)",
+      "demoMinUnit": "min",
+      "demoAvgCallNew": "Average Call Duration (New Users)",
+      "demoAvgChats": "Average Chats Received",
+      "demoChatsPerDay": "chats/day",
+      "demoAvgIncentive": "Average Incentive Count",
+      "demoCallsUnit": "calls",
+      "demoAvgOnline": "Average Online Duration",
+      "demoHoursUnit": "hours",
+      "demoPricePerMin": "₹9/min",
+      "demoCompleteCourse": "Complete the course by 21st Dec at 07:00 PM ",
+      "demoHoursLeftSample": "36 hours 25 mins remaining",
+      "demoLogCount": "@type (@value)",
+      "demoHoursMins": "@hours hrs+",
+      "demoMinsShort": "@minutes mins",
+      "demoCompletedLabel": "Completed",
+      "demoTotalEarning": "Total Earning",
+      "demoSent": "Sent",
+      "demoUser": "User",
+      "demoRewardsDate": "Date: @date"
+    },
+    "Lessons": {
+      "stages": [
+        {
+          "id": 1,
+          "stage": "S1",
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Online ela veylali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/e5b2a8ce-f1e3-4496-b7e6-0696b88cbc91.mp4"
+            },
+            {
+              "id": 2,
+              "title": "Withdraw buttons ela use cheyyali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/f8a04c53-d3ac-43c9-bf3b-72eea150c6dc.mp4"
+            },
+            {
+              "id": 3,
+              "title": "Help Button",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/47390585-5916-49da-bc2b-2e21f6473767.mp4"
+            }
+          ],
+          "quiz": {
+            "type": "",
+            "demoQuestions": []
+          }
+        },
+        {
+          "id": 2,
+          "stage": "S2",
+          "lessons": [
+            {
+              "id": 1,
+              "title": "New User mariyu Old User madhya difference enti?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/167cb159-9c37-4043-a3e5-ac323111409d.mp4"
+            },
+            {
+              "id": 1,
+              "title": "Learning Section mariyu Demo App ni ela use cheyyali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/bfc19794-ea21-48c9-9e42-5374b9b47341.mp4"
+            },
+            {
+              "id": 7,
+              "title": "Chat listing screen lo emi emi options untayi?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/23520c1a-fbd4-480c-94d7-7ec2855d0f14.mp4"
+            }
+          ],
+          "quiz": {
+            "type": "DEMO",
+            "demoQuestions": [
+              {
+                "feature": "CHAT_NEW_USER",
+                "question": "Kotha user ki audio message ela pampavachu?",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/New_User_audio_Telugu.mp3"
+              },
+              {
+                "feature": "CHAT_LISTING_REPLY",
+                "question": "Meeru reply cheyyani messages ni ekkada chuda galugu taru?",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/REPLY_nahi_kiya_unko_kahan_se_dekh_sakte_ho_TELUGU.mp3"
+              }
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "stage": "S3",
+          "lessons": [
+            {
+              "id": 11,
+              "title": "Lifetime First Call ante emiti?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/c7c6d59c-f0fb-41e6-a1b4-5270527d3f94.mp4"
+            },
+            {
+              "id": 12,
+              "title": "Daily Rewards ante emiti?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/b9a5c527-408f-4ef0-b524-a8ef5a3eb014.mp4"
+            }
+          ],
+          "quiz": {
+            "type": "DEMO",
+            "demoQuestions": [
+              {
+                "feature": "DAILY_REWARD_CRITERIA",
+                "question": "Daily Reward screen open chesi chupinchandi?",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/DAILY_REWARD_Demo_TELUGU.mp3"
+              },
+              {
+                "feature": "DAILY_REWARD_REVERSE_CALL",
+                "question": "Daily Rewards screen nundi oka Reverse Call chesi chupinchandi",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/REVERSE_CALL_laga_ke_dikhayein_TELUGU.mp3"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "stage": "S4",
+          "lessons": [
+            {
+              "id": 12,
+              "title": "Transactions ela choodali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/20762c1c-d433-451d-b4ef-44ce234aa230.mp4"
+            },
+            {
+              "id": 12,
+              "title": "Troubleshooting ante emiti? / Problems ni ela solve cheyyali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/00875748-d367-48f5-aeb2-ef05ab5ed13c.mp4"
+            },
+            {
+              "id": 12,
+              "title": "Chat screen lo emi emi options untayi?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/d9feb907-0be9-419b-9aa5-43aff21998d5.mp4"
+            }
+          ],
+          "quiz": {
+            "type": "DEMO",
+            "demoQuestions": [
+              {
+                "feature": "TRANSACTIONS_CALL",
+                "question": "Call nundi entha earning ochindo hai screen lo check chesuko vachchu?",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/Call_se_kitni_earning_TELUGU.mp3"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "stage": "S5",
+          "lessons": [
+            {
+              "id": 17,
+              "title": "Users ni block / unblock ela cheyyali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/3e2c92c9-0bb0-4157-a7fa-f7b20ed91ae2.mp4"
+            },
+            {
+              "id": 18,
+              "title": "Notifications ela on cheyyali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/9bccf917-8705-4718-b602-979aaadefab4.mp4"
+            }
+          ],
+          "quiz": {
+            "type": "DEMO",
+            "demoQuestions": [
+              {
+                "feature": "CHAT_BLOCK",
+                "question": "User ni ela block cheyyali?",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/User_ko_block_kaise_karte_hain_TELUGU.mp3"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "stage": "S6",
+          "lessons": [
+            {
+              "id": 19,
+              "title": "Notes feature ni ela use cheyyali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/809fe74f-d7f5-4376-8875-28dc5c45f3ad.mp4"
+            },
+            {
+              "id": 20,
+              "title": "Broadcast feature ni ela use cheyyali?",
+              "lessonUrl": "https://assets.capslockmarketplaces.com/4e469474-9813-46fa-9e98-4bd7042a68d4.mp4"
+            }
+          ],
+          "quiz": {
+            "type": "DEMO",
+            "demoQuestions": [
+              {
+                "feature": "CHAT_NOTES",
+                "question": "Note ela create cheyyali?",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/Note_kaise_bana_sakte_hain_TELUGU.mp3"
+              },
+              {
+                "feature": "BROADCAST_MID_USER",
+                "question": "Broadcast feature lo Call 4–9 list lo unna user ki message ela pampadam?",
+                "audioExplanationUrl": "https://vc-cdn.capslockmarketplaces.com/Broadcast_feature_TELUGU.mp3"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "stage": "S7",
+          "lessons": [],
+          "quiz": {
+            "type": "MCQ",
+            "mcqQuestions": [
+              {
+                "question": "Reverse Call ni total ani screens nundi cheyyachu?",
+                "correctAnswerId": 3,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "1"
+                  },
+                  {
+                    "id": 2,
+                    "value": "2"
+                  },
+                  {
+                    "id": 3,
+                    "value": "3"
+                  },
+                  {
+                    "id": 4,
+                    "value": "4"
+                  }
+                ]
+              },
+              {
+                "question": "Broadcast feature yokka use enti?",
+                "correctAnswerId": 1,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "Oka sari chala mandi users ki message pampadam"
+                  },
+                  {
+                    "id": 2,
+                    "value": "Complaint raise cheyyadam"
+                  },
+                  {
+                    "id": 3,
+                    "value": "Users ki stickers pampadam"
+                  },
+                  {
+                    "id": 4,
+                    "value": "Users balance check cheyyadam"
+                  }
+                ]
+              },
+              {
+                "question": "Notes feature yokka use enti?",
+                "correctAnswerId": 4,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "Daily Reward pondadaniki"
+                  },
+                  {
+                    "id": 2,
+                    "value": "Users ki stickers pampadaniki"
+                  },
+                  {
+                    "id": 3,
+                    "value": "Message pampadaniki"
+                  },
+                  {
+                    "id": 4,
+                    "value": "Users yokka important information save cheyyadaniki"
+                  }
+                ]
+              },
+              {
+                "question": "Average Call Duration – New Metric ante emiti?",
+                "correctAnswerId": 4,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "Meeru aa roju total ani calls receive chesaru"
+                  },
+                  {
+                    "id": 2,
+                    "value": "Meeru aa roju ani Reverse Calls chesaru"
+                  },
+                  {
+                    "id": 3,
+                    "value": "Meeru aa roju ani old users ki call chesaru"
+                  },
+                  {
+                    "id": 4,
+                    "value": "Meeru aa roju new users tho average ga  ani minutes call lo matladaru"
+                  }
+                ]
+              },
+              {
+                "question": "Notes ni hai screens nundi create cheyyachu?",
+                "correctAnswerId": 1,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "Call Screen mariyu Chat Screen"
+                  },
+                  {
+                    "id": 2,
+                    "value": "Home Screen mariyu Complaint Screen"
+                  },
+                  {
+                    "id": 3,
+                    "value": "Transaction Screen mariyu Home Screen"
+                  },
+                  {
+                    "id": 4,
+                    "value": "Broadcast Screen mariyu Chat Screen"
+                  }
+                ]
+              },
+              {
+                "question": "Broadcast lo Call 4–9 tab lo hai type users kanipistaru?",
+                "correctAnswerId": 2,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "Meeru 2 rojulu nundi matladutunna users"
+                  },
+                  {
+                    "id": 2,
+                    "value": "Meeru 4–9 saarlu matladina users"
+                  },
+                  {
+                    "id": 3,
+                    "value": "Meeku  ki 2 messages pampina users"
+                  },
+                  {
+                    "id": 4,
+                    "value": "Meeru 2 calls miss chesina users"
+                  }
+                ]
+              },
+              {
+                "question": "Oka user tho 30 mins call duration complete chesina tarvata entha reward vastundi?",
+                "correctAnswerId": 1,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "₹5 reward vastundi."
+                  },
+                  {
+                    "id": 2,
+                    "value": "Emi jarugadu."
+                  },
+                  {
+                    "id": 3,
+                    "value": "Mee manager nundi praise vasthundi."
+                  },
+                  {
+                    "id": 4,
+                    "value": "₹10 reward vastundi."
+                  }
+                ]
+              },
+              {
+                "question": "30 Minutes Reward tab lo hai users kanipistaru?",
+                "correctAnswerId": 3,
+                "answers": [
+                  {
+                    "id": 1,
+                    "value": "Meeru ee roju Reverse Call chesina users"
+                  },
+                  {
+                    "id": 2,
+                    "value": "Meeru chala ekkuva sari matladina users"
+                  },
+                  {
+                    "id": 3,
+                    "value": "Mee total call duration 30 minutes ki daggara unna users"
+                  },
+                  {
+                    "id": 4,
+                    "value": "Meeru call miss chesina users"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "IntroAudio": {
+    "_note": "Intro recording scripts for this language. Leave the names on the left as they are. Keep {name}, {city}, {promptPlaceholder}, {AppName}, and {TextToSpeak} unchanged.",
+    "introAudioVideo": "https://assets.capslockmarketplaces.com/a280d7ba-6149-440b-bd6d-fbc1b2f24d93.mp4",
+    "defaultSampleAudio": "https://vc-cdn.capslockmarketplaces.com/0f6cc429-e6b1-4c1b-a68d-c0cc0848f89e.mp3",
+    "prompt": "Task: Moderate Intro Audios Context: You are moderating short intro audio submissions for an audio-based social platform. Each audio is 10–25 seconds long and introduces a potential partner to listeners. The tone should be friendly, emotionally engaging, and may include light flirting. The goal is to make listeners want to call. We are providing the following variables to you which will be referenced across the prompt multiple times: {promptPlaceholder} Goal: Approve or Reject each audio. 🎯 Moderation Criteria Check each audio using the following rules: 🔹 1. No Words in Audio (Highest Priority) Reject if the audio only contains: Only noise, music, humming, breathing, or silence. No recognizable spoken words in any language. Important: Reject the audio if the percentage of legible speech in the entire duration is less than 60%. Otherwise pass this stage, even if the content is wrong or mispronounced. Proceed to check next stage if this is passed 🔹 2. App Name Match Check if the transcribed audio includes the exact app name {AppName}. Reject if the app name is missing, mispronounced beyond recognition, or replaced with another name. Important: Don't reject at this stage if they clearly refer to the same name as {AppName}. Minor variations in pronunciation is ok. Proceed to check next stage if this is passed 🔹 3. Incomplete Content Compare the audio transcription with {TextToSpeak}. Reject if the speaker misses more than one line or pauses abruptly. If you are rejecting due to missed lines, mention which lines are missing in the feedback. Important: Don't reject at this stage if 90% of {TextToSpeak} is covered and logical flow is maintained. Proceed to check next stage if this is passed 🔹 4. Wrong Content If the spoken text differs significantly from {TextToSpeak} (less than 90% matching content), reject. Use semantic matching, not exact string matching. Reject if key meaning is changed, new unrelated lines are added, or important lines are skipped. Small variations in synonyms, pronunciation, or rearranged sentence parts are okay. Example: \"Main hoon Sneha Bangalore se\" ⇄ \"Main Sneha hoon Bangalore se\" \"Dosti shuru karein\" ⇄ \"Nayi dosti ki shuruaat karein\" Important: Don't reject at this stage if the semantics of the audio transcript matches {TextToSpeak} around 90%. Proceed to check next stage if this is passed 🔹 5. Word Repetition Reject if the same word or phrase is spoken twice consecutively without interruption and they don't form a natural conversational flow. 🚫 Examples: \"Mujhe baatein baatein karna pasand hai\" \"Main hoon Shruti. Shruti, main dosti ke liye hoon.\" Important: Reject if any of the words are repeatedly spoken consecutively otherwise approve this stage and also as this is the last stage, approve the audio 🔁 Output Format (Strict) Return only a valid JSON object like below, with no extra text or formatting: json Give the output in the following JSON format. Don't return anything else, only return the JSON output, Strictly Don't send the response in Markdown ('''json). Just send it in the proper string with json Brackets at the starting and ending with {} Example JSON Response Don't use any \\n or \\t {\"decision\": \"Approved\" or \"Rejected\",\"reason\": \"Reason string from allowed list\",\"feedback\": \"Actionable suggestion (8–12 words)\"} 📌 Allowed Rejection Reasons (Use Exact Phrases): \"No Words in Audio\" \"Incorrect App Name\" \"Incomplete Content\" \"Wrong Content\" \"Word Repetition\" 🛑 Reject using only whichever matching rule is violated first based on the above priority order. ✅ If you are accepting, then mention reason as \"Everything is fine\" ✅ Examples for Model Understanding Example 1: TextToSpeak: \"Hi! Main hoon Priya Mumbai se. Dosti karni hai kya?\" Transcription: \"Hi! Main hoon Priya Mumbai se.\" 🛑 Reject — Incomplete Content (missing last line) Example 2: TextToSpeak: \"Main hoon Shruti. Main tumhara intezaar kar rahi hoon.\" Transcription: \"Main hoon Shruti Shruti. Main tumhara intezaar kar rahi hoon.\" 🛑 Reject — Word Repetition Example 3: TextToSpeak: \"Main hoon Aisha. Tumse baat karne ka man hai.\" Transcription: \"Main hoon Ayesha. Tumse baat karne ka mann hai.\" ✅ Approve — Acceptable phonetic/pronunciation variation 💬 Feedback Guide (Simple English) Be clear, friendly, and action-focused. Use 8–12 words. Example feedbacks: \"Please speak the full script without missing lines.\" \"Avoid repeating words like 'Shruti Shruti'.\" \"Say the correct app name clearly in the audio.\" \"We could not hear any words, try recording again.\"",
+    "variants": [
+      {
+        "primary_variant": "Hello Friends! naa peru {name} nenu {city} .naku paatalu padanam inka Dance cheyadam chala istam nenu miku okka manchi friend avagalanu. Okavela meru natho maatalu aadali anukunte, ventane call cheyandi  ",
+        "secondary_variant": "నమస్కారం మిత్రులారా నా పేరు నేను నాకు పాటలు పాడడం ఇంక నిత్యం చేయడం చాలా ఇష్టం నేను మీకు ఒక మంచి స్నేహితురాలు అవగలను ఒకవేళ మీరు నాతో మాటలు ఆడాలి అనుకుంటే వెంటనే కాల్ చేయండి",
+        "audio_url": "https://assets.capslockmarketplaces.com/bb8da501-535c-4022-b124-841a9d9b6868.m4a"
+      },
+      {
+        "primary_variant": "Hello Friends! naa peru {name} nenu {city}. nenu mee yelaanti Friend ante mee prathi maatha dhyanamga vintaa ayite padandi eeroju nunchi oka kotha sneham praarambhiddam. mee manasulo emunnaa naathoni panchukondi nenu mimmalni ventunaa ayite call cheyandi ippude!",
+        "secondary_variant": "నేను మీలాంటి స్నేహితురాలు అంటే మీ ప్రతి మాత ధ్యానంగా వింటా అయితే పదండి ఈరోజు నుంచి ఒక కొత్త స్నేహం ప్రారంభిద్దాం. మీ మనసు లో ఏమున్నా నాతోని పంచుకోండి నేను మిమ్మల్ని వెంటునా అయితే కాల్ చేయండి ఇప్పుడే!",
+        "audio_url": "https://assets.capslockmarketplaces.com/80f6c4b8-69b7-4eff-94d6-d517dc26e65e.m4a"
+      },
+      {
+        "primary_variant": "Hello Friends! naa peru {name} nenu {city}. eppudainaa ila feel ayite mee manasulo chala undi kaani cheppukunnadiki evaru leru konni maatalu manam mana vaallatone cheppagalam okavela ila yemaina mee manasulo unte oka call cheyandi",
+        "secondary_variant": "ఎప్పుడైనా ఇలా అనుభూతి అయితే మీ మనసులో చాలా ఉంది కానీ చెప్పుకున్నడికి ఎవరూ లేరు కొన్ని మాటలు మనం మన వాళ్ళతోనే చెప్పగలం ఒకవేళ ఇలా ఏమైనా మీ మనసులో ఉంటే ఒక కాల్ చేయండి",
+        "audio_url": "https://assets.capslockmarketplaces.com/cc00914d-d0dc-464f-a5f0-3b992985e580.m4a"
+      },
+      {
+        "primary_variant": "Hello Friends! naa peru {name} nenu {city}.naaku tiragadam kotha vaallatho matladadam chala ishtam okavela mee daggara edaina interesting trip story unte please natho share chesukondi padandi call cheyandi kalisi matladadam!",
+        "secondary_variant": "నాకు తిరగడం కొత్త వాళ్ళతో మాట్లాడడం చాలా ఇష్టం ఒకవేళ మీ దగ్గర ఏదైనా ఇంట్రెస్టింగ్ ట్రిప్ స్టోరీ ఉంటే ప్లీజ్ నాతో షేర్ చేసుకోండి పదండి కాల్ చేయండి కలిసి మాట్లాడదాం!",
+        "audio_url": "https://assets.capslockmarketplaces.com/605c4cb1-e600-4a0c-9b25-77afb62f64c9.m4a"
+      }
+    ]
+  },
+  "Modules": {
+    "_note": "Text for the live partner app. Add a block for each area. Home, Payout, and Daily rewards are the first ones.",
+    "Home": {
+      "homeTabHome": "Home",
+      "homeTabLogs": "Logs",
+      "homeTabChat": "Chat",
+      "homeTabSocial": "Social",
+      "homeTabLearning": "Learning",
+      "homeReload": "Reload",
+      "homeIdCopied": "ID copied to clipboard",
+      "homeShareWithManager": "You can now share it with your manager",
+      "homeAccountId": "ID: @id",
+      "homeHelp": "Help",
+      "homeStatusLive": "Live",
+      "homeStatusNewLive": "New Live",
+      "homeStatusProbation": "Probation",
+      "homeStatusOnboarded": "Onboarded",
+      "homeStatusFired": "Fired",
+      "homeStatusNull": "Null",
+      "homeActiveStatus": "Active Status",
+      "homeGoOnline": "Go online to start taking calls",
+      "homeOffline": "Offline",
+      "homeBusy": "Busy",
+      "homeOnline": "Online",
+      "homeYearlyReward": "Yearly Reward",
+      "homeLifetimeReward": "Lifetime Reward",
+      "homeAmountLeft": "Amount Left to Earn :",
+      "homeDailyRewards": "Daily\nRewards",
+      "homeYourScoreBreak": "Your\nScore",
+      "homeYourScore": "Your Score",
+      "homeMultiRewards": "Multi\nRewards",
+      "homeNewUser": "New User",
+      "homeUpdatesDaily": "Updates daily",
+      "homeOverview": "Overview",
+      "homeToday": "Today",
+      "homeYesterday": "Yesterday",
+      "homeThisWeek": "This Week",
+      "homeLastWeek": "Last Week",
+      "homeThisMonth": "This Month",
+      "homeLastMonth": "Last Month",
+      "homeNoData": "No data available.",
+      "homeEarning": "Earning",
+      "homeCalls": "Calls",
+      "homeMissed": "Missed",
+      "homeWalletBalance": "Wallet Balance",
+      "homePayoutDateLine": "Payout Date : @date",
+      "homeWithdrawMin": "You can withdraw once you reach ₹50",
+      "homeWithdrawMoney": "Withdraw Money",
+      "homeCoinBalance": "Coin Balance",
+      "homePayout": "Payout",
+      "homePayoutDate": "Payout Date",
+      "homePayDay": "Pay Day",
+      "homeJoinMeetingTitle": "Join Meeting for important updates",
+      "homeJoinMeetingNow": "Join meeting now",
+      "homeUpcomingMeetings": "Upcoming Meetings",
+      "homeClickBell": "Click on the bell icon to get notified",
+      "homeJoinNow": "Join Now",
+      "homeScheduled": "Scheduled",
+      "homeNotifyMe": "Notify Me",
+      "homeWhatsappTitle": "Join WhatsApp Group",
+      "homeJoinGroup": "Join Group",
+      "homeNotAvailable": "Not Available",
+      "homeWhatsappTelugu": "WhatsApp Group is not available for Telugu partners",
+      "homeWhatsappHindiGroupLink": "",
+      "homeWhatsappTamilGroupLink": "",
+      "homeNotifDenied": "You have permanently denied notifications.",
+      "homeNotifSettings": "Please go to settings to enable notifications.",
+      "homeNotifRequired": "Notification Permission Required",
+      "homeTurnOnNotif": "Turn on your notifications to to go online!",
+      "homeTurnOn": "Turn On",
+      "homeNotNow": "Not Now",
+      "homeVerificationPending": "Verification Pending",
+      "homeKycPending": "KYC Pending",
+      "homeCompleteVerification": "Complete Verification to Withdraw Money",
+      "homeCompletePayouts": "Complete now to get payouts",
+      "homeStartNow": "Start Now",
+      "homeFiredStayOnline": "Stay Online for more Hours to get more Calls",
+      "homeFiredScore": "You will be FIRED if your score is less than @score",
+      "homeAudiosLeft": "Audios left for NEW USER 🎙️",
+      "homeSendAudio": "Send Audio",
+      "homeSendBroadcast": "Send Broadcast Message",
+      "homeSend": "Send",
+      "homeWatchGuidelines": "Watch video to understand guidelines.",
+      "homeWhichLanguage": "Which language do you speak?",
+      "homeSelectUptoTwo": "You can select upto 2 languages. Only select languages you can speak. You will be required to record your voice in the same language.",
+      "homeSelectLanguage": "Select Language"
+    },
+    "Common": {
+      "liveMessageNotSent": "Message not sent",
+      "liveSomethingWentWrong": "Something went wrong!",
+      "liveSomethingWentWrong2": "Something went wrong.",
+      "liveSuccess": "Success",
+      "liveRetry": "Retry",
+      "liveSearch": "Search",
+      "liveAllQueries": "All Queries",
+      "liveAlert": "Alert",
+      "liveMinimumRecordingDurationShouldBe": "Minimum recording duration should be 5 seconds.",
+      "liveBlocked": "Blocked",
+      "liveSave": "Save",
+      "liveNo": "No",
+      "liveYes": "Yes",
+      "liveCallNow": "Call Now",
+      "liveRateYourExperience": "Rate your experience",
+      "liveRatingPoor": "Poor",
+      "liveRatingBad": "Bad",
+      "liveRatingAverage": "Average",
+      "liveRatingGood": "Good",
+      "liveRatingAmazing": "Amazing",
+      "liveMinMessageLength": "Minimum message length is @min characters.",
+      "liveMaxMessageLength": "Maximum message length is @max characters.",
+      "liveCallFailed": "Call Failed",
+      "livePleaseTryAgainLater": "Please try again later",
+      "liveMessage": "Message",
+      "liveSendingBroadcast": "Sending Broadcast to @count people..."
+    },
+    "Payout": {
+      "liveTransactions": "Transactions",
+      "liveNoTransactionFound": "No transaction found",
+      "liveRewards": "Rewards",
+      "liveOtherEarnings": "Other Earnings",
+      "liveCallsChatsAndGifts": "Calls, Chats and Gifts",
+      "liveShare": "Share",
+      "livePayoutCount": "Payout Count",
+      "liveViewDetails": "View Details",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.cplock.voiceclub_partner&pcampaignid=web_share",
+      "liveDuration": "Duration",
+      "liveEarningsHeader": "Earnings",
+      "liveAnon": "Anon",
+      "liveYesterday": "Yesterday",
+      "liveTotalEarning": "Total Earning",
+      "liveAmountWithinDay": "Amount will reflect within 1 day",
+      "liveDidNotSendAudio": "Did not send audio message",
+      "liveCallEndReason": "Call End Reason"
+    },
+    "Daily rewards": {
+      "liveCall": "Call",
+      "liveSpecialRewards": "Special Rewards",
+      "liveNoActiveRewardsCurrently": "No active Rewards Currently",
+      "liveNoDataFound": "No data found.",
+      "liveRewardIsGivenOnlyFor": "Reward is given only for ",
+      "liveReceivedMessages": "Received messages",
+      "liveNotSentMessages": ", not sent messages",
+      "liveNoRewardsData": "No rewards data.",
+      "liveDailyRewards": "Daily Rewards",
+      "liveRewardsTomorrow": "You will receive today's rewards tomorrow (@date)",
+      "liveOnLeaveToday": "You are on leave today.",
+      "liveNoRewardsOnLeave": "You will not receive your daily rewards.",
+      "liveCountRemaining": "@count remaining",
+      "liveCompleted": "Completed",
+      "liveReverseCall": "Reverse Call",
+      "live30MinReward": "30 Min Reward",
+      "liveCall30Min": "Call the below user for at least 30 minutes to earn extra ₹5",
+      "liveCompletedProgress": "Completed : @current/@total @label",
+      "liveCalls": "Calls",
+      "liveChats": "Chats",
+      "liveFailedToLoadData": "Failed to load data",
+      "liveErrorDetail": "Error: @detail"
+    },
+    "Milestone rewards": {
+      "liveYearlyAndLifetimeRewards": "Yearly & Lifetime Rewards",
+      "liveExploreNow": "Explore Now",
+      "liveYearlyRewards": "Yearly Rewards",
+      "liveLifetimeRewards": "Lifetime Rewards",
+      "liveThisYearEarnings": "This Year's Earnings: @amount",
+      "liveLifetimeEarnings": "Lifetime Earnings: @amount",
+      "liveTargetAmount": "Target : @amount",
+      "liveToday": "Today",
+      "liveEarningsUpToDate": "Your earnings are up to date.",
+      "liveEarningsWillUpdateOn": "Your earnings will update on @date.",
+      "liveMilestoneRewardsActiveSince": "Milestone rewards are active since 1st Jan 2025.",
+      "liveCongratulations": "Congratulations!!!",
+      "liveYouWillReceiveGiftAsGift": "You will receive @gift as a gift.",
+      "liveReceivedCashAddedToWallet": "You've received cash! It's been added to your wallet.",
+      "liveReceivedGiftAsGift": "You have received @gift as a gift.",
+      "liveShareYourReward": "Share Your Reward",
+      "livePending": "Pending",
+      "liveClaimRequestPending": "Your claim request is pending. You'll get it by @date"
+    },
+    "Chat": {
+      "liveOk": "Ok",
+      "liveWriteYourNoteHere": "Write your note here...",
+      "liveSelect": "Select",
+      "liveToUnlockReverseCall": " to unlock reverse call",
+      "liveMinsLeft": "@duration mins",
+      "liveCopy": "Copy",
+      "liveReply": "Reply",
+      "liveReport": "Report",
+      "liveDelete": "Delete",
+      "liveAudioMessage": "Audio Message",
+      "liveWarning": "Warning",
+      "livePleaseDoNotSharePhone": "Please do not share phone numbers.",
+      "liveTypeYourQuickReplyHere": "Type your quick reply here",
+      "liveNoOneHasCalled": "No one has called ",
+      "liveYet": " yet.",
+      "liveYouVeNowUnlocked": "You’ve now unlocked ",
+      "liveChat": "chat",
+      "liveYouVeNowUpgradedChat": "You’ve now upgraded chat with ",
+      "liveOnlineToday": "Online Today",
+      "liveTalkToNameFor": "Talk to @name for ",
+      "liveCallNameColon": "Call @name : ",
+      "liveCallName": "Call @name",
+      "liveGiftingActivatedFor": "Gifting has been activated for @name",
+      "liveAddNotes": "Add Notes",
+      "liveYourNotes": "Your Notes",
+      "liveNotesWith": "Notes with @name",
+      "liveNickname": "Nickname",
+      "liveAge": "Age",
+      "liveRelationship": "Relationship",
+      "liveProfession": "Profession",
+      "liveAddANote": "Add a note",
+      "liveWriteNewNote": "Write New Note",
+      "liveNotifyWhenSent": "We will notify you when it is sent"
+    },
+    "Social": {
+      "liveAllUsers": "All Users",
+      "liveMyUsers": "My Users",
+      "liveMyPosts": "My Posts",
+      "liveFailedToLoadPosts": "Failed to load posts",
+      "liveNoPostsYet": "No posts yet",
+      "livePost": "Post",
+      "livePostNotFound": "Post not found",
+      "liveTypeSomething": "Type something...",
+      "liveMinimumLengthRequired": "Minimum Length Required",
+      "livePleaseEnterAtLeast25": "Please enter at least 25 characters to post",
+      "liveAnErrorOccurred": "An error occurred.",
+      "liveDeleteStatus": "Delete status?",
+      "liveMinimumRecordingDurationShouldBe2": "Minimum recording duration should be 15 seconds.",
+      "liveFailedToFetchComments": "Failed to fetch comments",
+      "liveFailedToFetchReplies": "Failed to fetch replies",
+      "liveFailedToDeleteComment": "Failed to delete comment",
+      "liveFailedToCreateComment": "Failed to create comment",
+      "liveFailedToCreateReply": "Failed to create reply",
+      "livePleaseEnterSomeText": "Please enter some text",
+      "liveTextCannotBeEmpty": "Text cannot be empty",
+      "liveCouldnTCreatePost": "Couldn't create post",
+      "liveText": "Text",
+      "liveImage": "Image",
+      "liveAudio": "Audio",
+      "liveReportPost": "Report Post",
+      "livePostReportedSuccessfully": "Post reported successfully",
+      "liveNoStickers": "No Stickers",
+      "liveNoStickersAreAvailableAt": "No stickers are available at the moment",
+      "liveFailedToLoadComments": "Failed to load comments",
+      "liveReportComment": "Report Comment",
+      "liveCommentReportedSuccessfully": "Comment reported successfully",
+      "liveReportReply": "Report Reply",
+      "liveReplyReportedSuccessfully": "Reply reported successfully"
+    },
+    "Profile": {
+      "liveSubmit": "Submit",
+      "liveYourCertificateHasBeenSaved": "Your certificate has been saved to Downloads folder.",
+      "liveDownload": "Download",
+      "livePermissions": "Permissions",
+      "liveAreAllTheNecessaryPermissions": "Are all the necessary permissions granted in the app?",
+      "liveLowPowerMode": "Low Power Mode",
+      "liveNetworkConnectivity": "Network Connectivity",
+      "liveCallLag": "Call Lag",
+      "liveAppUpdate": "App Update",
+      "liveIsTheAppUpdatedTo": "Is the app updated to the latest version?",
+      "liveTroubleshootingSuccessful": "Troubleshooting Successful",
+      "liveYouAreGoodToGo": "You are good to go!",
+      "liveTroubleshooting": "Troubleshooting",
+      "liveStart": "Start",
+      "liveCheckingBatteryOptimizations": "Checking if battery optimizations are affecting app performance.",
+      "liveIsDeviceConnectedToNetwork": "Is the device connected to the network and is it able to access the internet?",
+      "liveIsThereACallLag": "Is there a lag in the call or is there any issue with the sound?",
+      "liveLowPowerModeDetected": "Low Power Mode Detected",
+      "liveDisableLowPowerMode": "Disable low power mode in battery settings.",
+      "liveNetworkConnectivityIssue": "Network Connectivity Issue",
+      "liveCheckInternetConnection": "Please check your internet connection",
+      "liveCallLagDetected": "Call Lag Detected",
+      "livePleaseTryAgain": "Please try again.",
+      "liveMicrophonePermissionDenied": "Microphone Permission Denied",
+      "liveAllowMicrophonePermission": "Please allow microphone permission and try again.",
+      "liveNotificationPermissionDenied": "Notification Permission Denied",
+      "liveAllowNotificationPermission": "Please allow notification permission and try again.",
+      "liveFcmNotificationPermissionDenied": "FCM Notification Permission Denied",
+      "liveAllowFcmNotificationPermission": "Please allow FCM notification permission and try again.",
+      "liveAllowPermissionAndTryAgain": "Please allow permission and try again.",
+      "liveAppIsNotUpdated": "App is not updated",
+      "liveUpdateAppFromPlayStore": "Please update the app from Play Store",
+      "liveNewPatchAvailable": "New patch is available",
+      "liveKillTheAppTwice": "Try killing the app twice",
+      "liveDownloadLatestFromPlayStore": "Please download the latest version of the app from Play Store.",
+      "liveCheckFailed": "Failed",
+      "liveInvalidInput": "Invalid Input",
+      "livePleaseCorrectTheErrorsIn": "Please correct the errors in the form.",
+      "liveAddAddress": "Add Address",
+      "liveRequired2": "Required*",
+      "liveEnterYourFullName": "Enter your full name*",
+      "liveFlatHouseNoFloorBuilding": "Flat/ House No. / Floor / Building*",
+      "liveStreetAddress": "Street Address*",
+      "liveCity": "City*",
+      "liveZipCode": "Zip Code*",
+      "livePhoneNumber": "Phone Number*",
+      "liveAlternateMobileNumber": "Alternate mobile number*",
+      "liveSendAddress": "Send Address",
+      "liveRecordYourVoices": "Record Your Voices",
+      "liveNotifications": " Notifications",
+      "liveBlocklist": "Blocklist",
+      "liveLockYourApp": "Lock Your App",
+      "liveSignedAgreement": "Signed Agreement",
+      "liveAccountNumber": "Account Number",
+      "liveIfscCode": "IFSC Code",
+      "liveUnblockUser": "Unblock user",
+      "liveUnblockUserConfirm": "Are you sure you want to unblock this user?",
+      "liveUnblock": "Unblock",
+      "liveNotificationOff": "Notification Off",
+      "liveNotificationOn": "Notification On",
+      "liveNotificationOffDescription": "Click Yes if you don't want to receive Chat Notifications when Offline",
+      "liveNotificationOnDescription": "Click Yes to receive chat notifications when offline",
+      "liveLogoutConfirm": "Are you sure you want to logout?",
+      "livePartner": "\nPartner",
+      "liveFailed": "failed",
+      "liveToVerifyTryAgain": " to verify, try again.",
+      "liveVerifyReason": "\nReason: @reason",
+      "liveProfileIntro": "Profile Intro",
+      "liveFix": "Fix",
+      "liveListenToSampleAudio": "Listen to Sample Audio",
+      "speedCheckFileUrl": "https://vcinternal-r2.capslockmarketplaces.com/3.png",
+      "avatarUrl1": "https://vc-cdn.capslockmarketplaces.com/Layer2.png",
+      "avatarUrl2": "https://vc-cdn.capslockmarketplaces.com/Layer4.png",
+      "avatarUrl3": "https://vc-cdn.capslockmarketplaces.com/man.png",
+      "avatarUrl4": "https://vc-cdn.capslockmarketplaces.com/user.png",
+      "defaultPartnerAvatar": "https://vc-cdn.capslockmarketplaces.com/avataaars10.png",
+      "livePleaseRecordYourAudioIn": "Please record your audio in ",
+      "liveUsingTheName": "\nusing the name ",
+      "liveWellDone": "Well Done!",
+      "liveOurTeamWillContactYou": "Our team will contact you shortly",
+      "liveFailedToClaimGiftPlease": "Failed to claim gift. Please try again.",
+      "liveNoGiftsAvailable": "No gifts available",
+      "liveRateUs": "Rate us",
+      "livePermissionDenied": "Permission Denied",
+      "liveInsufficientSpeech": "Insufficient Speech",
+      "liveAnalysisFailed": "Analysis Failed",
+      "liveAudioProcessedSuccessfully": "Audio Processed Successfully",
+      "liveYourAudioHasBeenProcessed": "Your audio has been processed and uploaded!",
+      "liveUploadFailed": "Upload Failed",
+      "liveCouldNotUploadTheAudio": "Could not upload the audio. Please try again later.",
+      "playSampleAudio": "Play sample audio",
+      "recordAgain": "Record Again",
+      "reupload": "Re-upload",
+      "upload": "Upload",
+      "holdToRecord": "Hold the button to Record",
+      "audioStatusPending": "Pending",
+      "audioStatusApproved": "Approved",
+      "audioStatusRejected": "Rejected",
+      "audioStatusAiApproved": "AI Approved",
+      "audioStatusAiRejected": "AI Rejected",
+      "liveNotUploaded": "Not Uploaded",
+      "liveRecordingBeingReviewed": "Recording is being reviewed.",
+      "liveSubmitAnotherRecording": "Submit another recording",
+      "liveReasonWithValue": "Reason : @reason",
+      "liveRecordProfileIntroSubtitle": "Record your profile introduction audio\nwhich will be played by all the users.",
+      "livePressHoldToRecord": "Press & Hold to Record",
+      "livePressHoldToSpeak": "Press & Hold to Speak"
+    },
+    "Calling": {
+      "liveMuted": "Muted",
+      "liveTotalCallDuration": "Total Call Duration",
+      "live1stCall": "1st Call",
+      "live2ndCall": "2nd Call",
+      "live3rdCall": "3rd Call",
+      "live4Calls": "4+ Calls",
+      "liveInfo": "Info",
+      "liveDisabled": "Disabled",
+      "liveYouHaveExhaustedYourMute": "You have exhausted your mute limit!",
+      "liveDeclineCallConfirm": "Are you sure you want to decline the call?",
+      "livePenaltyDeducted": "₹7 penalty will be deducted!",
+      "livePenaltyAfterCall": "₹7 penalty will be deducted after @count call!",
+      "livePenaltyAfterCalls": "₹7 penalty will be deducted after @count calls!"
+    },
+    "Support": {
+      "liveTryAgain": "Try again",
+      "liveAddANewQuery": "+ Add a new query",
+      "liveMeetings": "Meetings",
+      "liveFeedback": "Feedback",
+      "liveFaqs": "FAQs",
+      "liveHelpAndSupport": "Help and Support",
+      "liveStartSurvey": "Start Survey",
+      "liveTypeSomething2": "Type Something..",
+      "liveYouHaveReachedTheDaily": "You have reached the daily query limit",
+      "liveFailedToOpenQueryChat": "Failed to open query chat",
+      "liveTicket": "Ticket ",
+      "liveCreated": " created",
+      "liveChooseDate": "Choose date",
+      "liveChooseTime": "Choose time",
+      "liveSupport": "Support",
+      "liveEnd": "End",
+      "liveStatusQuery": "@status query",
+      "liveQueryOngoing": "Ongoing",
+      "liveQueryPending": "Pending",
+      "liveQueryResolved": "Resolved",
+      "liveQueryRejected": "Rejected",
+      "liveQueryPendingState": "Your query is in Pending State",
+      "liveQueryWasResolved": "Your query was Resolved",
+      "liveQueryWasRejected": "Your query was Rejected",
+      "liveGeneralQuery": "General Query",
+      "liveSelectOneOption": "Select one option",
+      "liveOneQueryRemainingToday": "1 query remaining today",
+      "liveQueriesRaisedToday": "@used / @total queries raised today",
+      "liveCannotBeSentToBot": "@type can not be sent to bot",
+      "liveSizeIsTooLarge": "@type size is too large",
+      "liveUnableToLoadSupportMessages": "Unable to load support messages.",
+      "liveQueryVideo": "Video"
+    },
+    "Account": {
+      "liveCopied": "Copied",
+      "liveContactSupport": "Contact Support",
+      "liveAreYouSureYouWant3": "Are you sure you want to close the application?",
+      "liveEnterYourNumber": "Enter your number",
+      "liveAnd": " and ",
+      "liveOtpVerificationFailed": "OTP Verification failed",
+      "liveSomethingWentWrongPleaseTry2": "Something went wrong, please try again.",
+      "liveDidnTReceiveOtp": "\nDidn’t receive OTP? ",
+      "liveGetStarted": "Get Started",
+      "liveFailedToAuthenticate": "Failed to authenticate",
+      "liveAuthenticate": "Authenticate"
+    },
+    "Metrics": {
+      "liveWatchVideo": "Watch Video",
+      "liveDate": "Date",
+      "liveScore": "Score",
+      "liveYourPreviousMetrics": "Your previous metrics",
+      "liveNoMetricsAvailable": "No metrics available.",
+      "oneScoreReward30minsVideo": "https://vc-cdn.capslockmarketplaces.com/30mins.mp4",
+      "oneScoreAvgCallNewVideo": "https://vc-cdn.capslockmarketplaces.com/avgCallNew.mp4",
+      "oneScoreAvgCallOldVideo": "https://vc-cdn.capslockmarketplaces.com/avgCallOld.mp4",
+      "oneScoreChatReceivedVideo": "https://vc-cdn.capslockmarketplaces.com/chatReceived.mp4",
+      "oneScoreOnlineDurationVideo": "https://vc-cdn.capslockmarketplaces.com/onlineDuration.mp4",
+      "oneScoreAvgCallOldIcon": "https://vc-cdn.capslockmarketplaces.com/icons/call_add.svg",
+      "oneScoreAvgCallNewIcon": "https://vc-cdn.capslockmarketplaces.com/icons/call.svg",
+      "oneScoreChatReceivedIcon": "https://vc-cdn.capslockmarketplaces.com/icons/chat.svg",
+      "oneScoreReward30minsIcon": "https://vc-cdn.capslockmarketplaces.com/icons/trophy.svg",
+      "oneScoreOnlineDurationIcon": "https://vc-cdn.capslockmarketplaces.com/icons/timer.svg"
+    },
+    "Learning": {
+      "liveGoBackToCourses": "Go back to courses",
+      "liveWatchVideoToGo": "Watch video to go "
+    },
+    "Feedback": {
+      "liveFeedbackDate": "Feedback Date",
+      "liveManagerSName": "Manager's Name"
+    },
+    "More": {
+      "liveAreYouSureYouWant": "Are you sure you want to delete this message?",
+      "liveRequired": "Required",
+      "liveAudioRecordingIsNeededTo": "Audio recording is needed to go online.",
+      "liveCannotGoLive": "Cannot go live",
+      "liveNotificationSwitchError": "Notification Switch Error!",
+      "liveMeetingReminder": "Meeting Reminder",
+      "liveCouldNotFetchRewards": "Could not fetch rewards!",
+      "liveCompleteKycRequired": "Complete KYC Required",
+      "liveStartKyc": "Start KYC",
+      "livePhoneNumberNotFoundPlease": "Phone number not found. Please contact support.",
+      "liveWithdrawPayout": "Withdraw Payout",
+      "liveAreYouSureYouWant2": "Are you sure you want to withdraw your payout?",
+      "liveWithdraw": "Withdraw",
+      "livePayoutWithdrawalInitiatedSuccessfully": "Payout withdrawal initiated successfully.",
+      "liveFailedToWithdrawPayoutPlease": "Failed to withdraw payout. Please try again later.",
+      "liveSomethingWentWrongPleaseTry": "Something went wrong. Please try again later.",
+      "liveCouldNotFetchEarnings": "Could not fetch earnings",
+      "liveFailedToFetchChatGroup": "Failed to fetch chat group",
+      "liveLowBalance": "Low Balance",
+      "liveTalkTime3": "@name has 3 minutes talk-time left.",
+      "liveFailedToAcceptCallPlease": "Failed to accept call. Please try again.",
+      "liveTroubleshootDevice": "We recommend you to troubleshoot your device. (@errorCode)",
+      "liveTalkTime230": "@name has 2 min 30 sec talk-time left!",
+      "liveViewMessages": "View Messages >",
+      "liveExplore": "Explore",
+      "liveGiftEarning": "Gift Earning ",
+      "liveLimitExceeded": "Limit Exceeded",
+      "liveKeepGiftIncomeBelow": "Keep gift income below ",
+      "liveOrYouWillBe": " or\nyou will be ",
+      "liveFromTheApp": " from the app.",
+      "liveGotIt": "Got It",
+      "liveHourRange": "@low-@high hours",
+      "liveAreYouSureYouWant4": "Are you sure you want to go ",
+      "liveRequiredOnlineDuration": "Required online duration : ",
+      "liveHoursNeeded": "@hours Hours.\n",
+      "liveCurrentOnlineDuration": "Current online duration : "
+    },
+    "Rest": {
+      "liveSendBroadcast": "Send Broadcast",
+      "liveBroadcastMessageSent": "Broadcast Message Sent",
+      "liveYourMessageWasSentTo": "Your message was sent to the selected users.",
+      "liveManagerSFeedback": "Manager's Feedback",
+      "liveNewUser": "New User!",
+      "livePleaseSendAnAudioMessage": "Please send an audio message.",
+      "liveNoMessagesYet": "No messages yet.",
+      "liveSent": "Sent",
+      "liveNoUsersFound": "No users found.",
+      "liveCallLogs": "Call Logs",
+      "liveNoCallsFound": "No calls found.",
+      "liveAddNickname": "Add nickname",
+      "liveDeviceHealthTroubleshooting": "Device Health & Troubleshooting",
+      "liveNoBlockedUsers": "No blocked users.",
+      "liveKamMeetings": "KAM Meetings",
+      "liveSelectAllUsers": "Select All Users",
+      "liveCaller": "Caller",
+      "liveCallDuration": "Call Duration",
+      "liveCallStartTime": "Call Start Time",
+      "liveCallEndTime": "Call End Time",
+      "liveReverseCalls": "Reverse Calls",
+      "live30MinCallReward": "30 Min Call Reward",
+      "liveChatRewards": "Chat Rewards",
+      "liveOnlineDuration": "Online Duration",
+      "liveNoCallsYet": "No calls yet.",
+      "liveNoChatsYet": "No chats yet.",
+      "liveLive": "LIVE",
+      "liveSomethingWentWrongDetail": "Something went wrong @detail",
+      "liveThankYouRating": "Thank you for rating @name",
+      "liveBelowHours": "Below @hours hr",
+      "liveAboveHours": "Above @hours hr",
+      "liveAboveHoursPlus": "Above @hours hr+",
+      "liveTryAgainWithError": "Please try again later. @detail",
+      "liveBroadcastTitle": "Broadcast: @name",
+      "liveDeleteMessageFrom": "Delete Message from @name?",
+      "liveResentOtp": "Resent OTP to +91@phone",
+      "liveFilterChats": "@name Chats"
+    },
+    "Intro Audio Flow": {
+      "welcomeToVoiceClub": "Welcome to VoiceClub!",
+      "addProfileAudio": "Add Profile Audio",
+      "addProfileAudioSubtitle": "You have to upload audios of yourself to go online.",
+      "yourAccountHasBeenCreated": "Your account has been created.",
+      "uploadYourProfileAudio": "Upload your profile audio.",
+      "settingUpYourAccount": "Setting up your account...",
+      "onceYourAudioIsApproved": "Once your audio is approved by your manager, you can go online and Start Earning.",
+      "upload": "Upload",
+      "recordNow": "Record Now",
+      "audiosLeftToRecord": "You have @count audios left to record.",
+      "firstLanguageLabel": "(1st Language)",
+      "secondLanguageLabel": "(2nd Language)",
+      "audiosSentForApproval": "Audios Sent for Approval!!",
+      "proceedNext": "Proceed Next",
+      "congratulationsBang": "Congratulations!!",
+      "profileIntroductionAudio": "Profile Introduction Audio",
+      "feedbackLabel": "Feedback : @feedback",
+      "exceededMaximumAttempts": "You have exceeded the maximum attempts.",
+      "teamWillContactYou": "Someone from our team will contact you in 1-2 days.",
+      "doNotCloseTheApp": "DO NOT close the app.\nThis may take upto 1-2 minutes.",
+      "recordAgain": "Record Again",
+      "reupload": "Re-upload",
+      "holdToRecord": "Hold the button to Record",
+      "recordingInProgress": "Recording...",
+      "videoError": "Video Error",
+      "repeatedWordsNaturally": "You have repeated some words.\nTry saying it more naturally.",
+      "analyzingAudio": "Analyzing Audio...",
+      "cleaningAudio": "Cleaning Audio...",
+      "processingAudio": "Processing Audio...",
+      "play": "Play",
+      "pause": "Pause",
+      "microphoneAccess": "Please give microphone access to record!",
+      "microphoneAccessOpenSettings": "Please open settings and give microphone access to record!",
+      "speakLoudlyForSeconds": "Please speak loudly and clearly for at least @count seconds.",
+      "minimumRecordingDuration": "Minimum recording duration should be 5 seconds.",
+      "speakForAtLeastSeconds": "Please ensure you speak for at least @count seconds.",
+      "audioStatusPending": "Pending",
+      "audioStatusApproved": "Approved",
+      "audioStatusRejected": "Rejected",
+      "playSampleAudio": "Play sample audio"
+    }
+  },
+  "kycFlow": {
+    "_note": "KYC flow media for this language. Each language file has its own video link. Leave a link empty when this language has no video for that step.",
+    "aadharEsignVideo": "https://vc-cdn.capslockmarketplaces.com/Aadhar_Esign_Telugu.mp4"
+  }
+}

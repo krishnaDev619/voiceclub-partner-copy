@@ -1,0 +1,87 @@
+{
+    "prompt": "\nTask: Moderate Intro Audios\n\nContext:\nYou are helping to moderate intro audio submissions for an audio-based social platform.\nOn this platform, users listen to short 10–25 second audios from potential partners before deciding to connect.\nThese audios are meant to be friendly, emotionally engaging, and may include light flirting.\nEach partner introduces herself in a way that encourages users to call her.\n\nGoal: Approve or Reject the Audio\n\nVariables: You need to approve (APPROVE) or reject (REJECT) each audio based on the following checks:\n\nWhat to Check:\n1. App Name Match:\n   The appname in uploaded audio transcription should match the app name in TextToSpeak{}\n\n2. City name check:\n   The name of the city should be match the city name mentioned in TextToSpeak{}. Note accept different dialets and pronunication of cities. Accept \"Mumbai\" and \"Bombay\". \"Delhi\" and \"Dilli\"\n\n3. Transcription Match:\n   The Transcription of submitted audio should match least 70% of the text in TextToSpeak{}\n   Approve small changes in phrasing or pronunciation.\n   Examples of approvable changes:\n   \"1\" and \"ek\"\n   \"Door\" and \"dur\"\n   \"Kabhi ek sacche dost ki zarurat hoti hai\" and \"Kabhi kabhi bas ek sacche dost ki zaroorat hoti hai\"\n   Reject only if the audio clearly does not match at least 70%.\n\n4. No Immediate Word or Phrase Repetition:\n   The same word or phrase should not be repeated back-to-back. Reject if repetition is like:\n   \"My name is Shruti, I like cooking\"\n   \"My name is Shruti. I like cooking cooking..\"\n\nOutput:\nPlease return your response in the following format:\n\nDecision:\n- Approved — if the audio passes all checks\n- Rejected — if the audio fails any of the checks\n\nReason:\nIf Rejected, return one of these exact reasons:\n- Word Repetition – if the audio contains repeated words or phrases\n- Incorrect App Name – if the app name does not match AppName{}\n- Incorrect Content – if the transcription does not sufficiently match TextToSpeak{}\n\nGive the output in the following JSON format.\nDon't return anything else, only return the JSON output don't use /10 just provide double value.\nStrictly Don't send the response in Markdown (```json).\nJust send it in the proper string with json Brackets at the starting and ending with {}\n{\n  \"decision\": \"\",\n  \"reason\": \"\"\n}",
+    "script": [
+        {
+            "language": "Hindi",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Mujhe gaana aur dance karna pasand hai. Main aapki achhi dost ban sakti hoon. Agar aapko mujhse baat karni hai, toh jaldi se call karo.",
+                "Main ek aisi dost hoon jo tumhari har baat dhyan se sunegi.\nToh chalo, aaj se ek nayi dosti ki shuruaat karte hain!\nJo bhi tumhare dil mein hai, mujhse share karo.\nMain sun rahi hoon! Toh ab call karo na!",
+                "Kabhi aisa mehsoos hota hai ki dil mein bohot kuch hai, par sunne wala koi nahi?\nKuch baatein hoti hain na jo sirf kisi apno se hi keh paate hain\nAgar tumhare dil mein bhi kuch aisa hai toh ek call karo na.",
+                "Mujhe Ghumna aur naye logon se baat karna bahut pasand hai!\nAgar aapke paas koi interesting trip ka kissa hai, toh please mujhse share karo.\nChalo, call karo milke baatein karte hain!",
+                "Kabhi laga hai ki kisi unknown se baat karna zyada interesting hota hai?\nKya pata, yahin se ek nayi dosti ya special connection shuru ho jaye!\nAapki koi kahani, raaz ya dil ki baat hai toh main sunne ke liye ready hoon.\nChalo Call pe baate karte hain!",
+                "Life kabhi easy nahi hoti, lekin agar ek saccha dost ho toh sab thoda easy lagta hai.\nAgar aap ek saccha dost dhund rahe ho jo aapko positive feel karvaye,\ntoh mujhe abhi call karo"
+            ]
+        },
+        {
+            "language": "Tamil",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Enakku singing dancing na romba pudikkum.\nNaan unga kuda oru nalla friend aagalam nu nenaikura!\nNeega en kuda pesanum na ennaku sikiram call pannuga pesalam.",
+                "Unga manasula edhu irundhalum en kitta solluga namma manasu vittu pesalam,\nUngaluku oru nalla friend ah irrupen namma rendu perum oru special frienship ah create panalam.\nSo edhuku wait pandriga sikiram call pannuga pesalam friend aagalam.",
+                "Unga manasu romba baarama irruka,\nyaar kita aachum share pannaum nu thonudha aana yaar kittaum share panna mudiyala nu feel pandrigala kavala padathiga na irruken oru call pannuga namma manasu vittu pesalam.",
+                "Unga heart la nariya kadhaigala vechutu yaar kitaum share panna mudiyalanu feel pandrigala,\nadhu oru palaya kadhai ah irrukalam, illa palaiya neyabagam ah irrukalam Edhuva irrundhalum kekuradhu na irrukan oru call pannuga namma manasu vittu pesalam.",
+                "Enaku oor suthi paakuradhu aprm people kuda pesuradhu romba pudiukum!\nUngaluku pudhu places pathi ilana oru interesting vishayatha paathi share pannanum nu nenaikuregala,\nna irruken call pannuga pesalam.",
+                "Neega eppa aachum yoschi irrukegala stranger kitta pesuradhu interesting ah irrukum nu?\nYaaruku therium indha edathula ungaluku oru special connection start aagalam,\nso edhuku wait pandriga call pannugana pesalam."
+            ]
+        },
+        {
+            "language": "Bengali",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Amar hobbies holo singing aar dancing.\nAmi tomar khub bhalo bondhu hote pari.\nJodi tomar amar sathe kotha bolar icche hoy, tahole taratari amake call koro."
+            ]
+        },
+        {
+            "language": "Telugu",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Na hobbies singing mariyu dancing.\nNenu mee manchi friend avvagalanu.\nMeeru naatho matladali anukunte, dayachesi tondaraga call cheyyandi."
+            ]
+        },
+        {
+            "language": "Gujrati",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Mari hobbies singing and dancing chhe,\nMai tmari sari Friend bni saku chhu,\nagar tmare mara jode vato karwi chhe to jaldi thi mane call karo."
+            ]
+        },
+        {
+            "language": "Marathi",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Majhi hobbies dancing and singing aahe.\nMii tumchi pakki maitrin banu sakte,\ntumhala majhaya si bolaych asel tar mala patkan call kara aani he bolun upload kara."
+            ]
+        },
+        {
+            "language": "Odia",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Mote gita gaiba au dance kariba bahut bhala lage.\nMu tomoro bhala sango hai paribi\nMo sahito jadi kotha hoba ku chahu chanti, jaldi call karantu!"
+            ]
+        },
+        {
+            "language": "Punjabi",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Mainu gaana gaun da te nachan da bahut shauk hai, te mainu pakka yakeen hai ke assi kaafi kareebi dost ban sakde aan,\nJe tusi mere naal gal karna chaunde ho, taan please mainu jaldi call karo,"
+            ]
+        },
+        {
+            "language": "Bhojpuri",
+            "initial_speech": "Hello friends! I am",
+            "middle_text": "from",
+            "variants": [
+                "Humke gaana aur naach ke bahut shauk baa.\nHum raur bahut acchi saheli ban sakatani.\nAgar raur humse baat kare ke ichchha ho, ta jaldi se call kari."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+name: voiceclub_partner
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+
+version: 4.9.18+134
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get:
+  flutter_rating_bar: ^4.0.1
+  uuid: ^4.4.0
+  permission_handler: ^12.0.1
+  flutter_svg:
+  flutter_staggered_grid_view: ^0.7.0
+  google_fonts: ^8.0.2
+  firebase_core: ^4.4.0
+  firebase_analytics: ^12.1.2
+  url_launcher: ^6.1.7
+  path_provider: ^2.0.11
+  intl: ^0.20.2
+  loader_overlay: ^5.0.0
+  dio: ^5.3.0
+  flutter_ringtone_player: ^4.0.0+2
+  in_app_review: ^2.0.6
+  visibility_detector: ^0.4.0+2
+  shimmer: ^3.0.0
+  shared_preferences: ^2.0.17
+  carousel_images: ^1.1.2
+  play_install_referrer: ^0.5.0
+  vibration: ^3.1.3
+  device_info_plus: ^12.3.0
+  carousel_slider: ^5.0.0
+  font_awesome_flutter: ^10.4.0
+  retrofit: 4.9.2
+  logger: any  #for logging purpose
+  get_it: ^9.2.1
+  mixpanel_flutter: ^2.1.1
+  firebase_crashlytics: ^5.0.7
+  audio_waveforms: 2.0.2
+  file_picker: ^10.3.10
+  flutter_cache_manager: ^3.3.1
+  video_player: ^2.7.0
+  camera: ^0.12.0+1
+  equatable: ^2.0.5
+  quiver: ^3.2.1
+  image_picker: ^1.0.4
+  cloud_firestore: ^6.1.2
+  photo_view: ^0.15.0
+  flutter_keyboard_visibility: ^6.0.0
+  pinput: ^6.0.2
+  provider: ^6.0.5
+  video_compress: ^3.1.2
+  wakelock_plus: ^1.2.7
+  external_app_launcher: ^4.0.0
+  path: ^1.8.3
+  hive_ce: ^2.11.3
+  hive_ce_flutter: ^2.3.2
+  emoji_picker_flutter: ^4.3.0
+  growthbook_sdk_flutter: ^4.2.2
+  syncfusion_flutter_pdfviewer: ^32.2.5
+  in_app_update: ^4.2.3
+  chewie: ^1.12.1
+  lottie: ^3.1.2
+  syncfusion_flutter_datagrid: ^32.2.5
+  syncfusion_flutter_core: ^32.2.5
+  syncfusion_flutter_signaturepad: ^32.2.5
+  syncfusion_flutter_pdf: ^32.2.5
+  syncfusion_flutter_gauges: ^32.2.5
+  gradient_borders: ^1.0.1
+  flutter_slidable: ^4.0.0
+  another_stepper: ^1.2.2
+  shorebird_code_push: ^2.0.4
+  http: ^1.2.2
+  geolocator: ^14.0.2
+  flutter_inappwebview: ^6.0.0
+  showcaseview: ^5.0.1
+  awesome_notifications_core: ^0.10.0
+  awesome_notifications: ^0.11.0
+  firebase_messaging:
+  restart_app: ^1.8.3
+  internet_connection_checker_plus: ^2.7.0
+  connectivity_plus: ^7.0.0
+  flutter_image_compress: ^2.3.0
+  battery_plus: ^7.0.0
+  hyperkyc_flutter: ^2.0.1
+  app_settings: ^7.0.0
+  android_intent_plus: ^6.0.0
+  local_auth: ^3.0.0
+  audioplayers: ^6.4.0
+  timeago: ^3.7.0
+  record: 6.0.0
+  proximity_sensor: ^1.3.8
+  neo_beep: ^1.0.0
+  vad: ^0.0.7+1
+  hive_ce_generator: ^1.9.3
+  share_plus: ^12.0.0
+  widgets_to_image: ^2.0.1
+  package_info_plus: ^9.0.0
+  flutter_dotenv: ^6.0.0
+  advertising_id: ^2.7.1
+  facebook_app_events: ^0.28.0
+  flutter_facebook_app_links: ^3.1.0
+  singular_flutter_sdk: ^1.8.0
+  volume_controller: ^3.4.1
+  byteplus_rtc: 3.60.4
+  fast_cached_network_image: ^1.3.3+5
+  screen_off: ^1.0.0
+  app_links: ^6.4.1
+  flutter_file_downloader: ^2.1.1
+
+dependency_overrides:
+  record_platform_interface: 1.3.0
+  record_android: 1.3.3
+  record_ios: 1.0.0
+  record: 6.0.0
+  analyzer: ^8.2.0
+  dart_style: 3.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  retrofit_generator: ^10.2.3
+  build_runner: ^2.7.0
+  json_serializable: 6.11.2
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.3
+  source_helper: 1.3.9
+
+flutter_launcher_icons:
+  android: true
+  adaptive_icon_background: "assets/images/vc_background.png"
+  adaptive_icon_foreground: "assets/images/vc_foreground.png"
+  ios: false
+  image_path: "assets/images/vc_partner_app_icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - .env.dev
+    - .env.prod
+    - assets/
+    - assets/i18n/
+    - assets/images/
+    - assets/images/languages/
+    - assets/icons/
+    - assets/audio/
+    - assets/icons/bottom_nav/
+    - assets/icons/rating/
+    - assets/icons/chat/
+    - assets/icons/supply_tier/
+    - assets/icons/troubleshoot/
+    - assets/icons/snackbar/
+    - assets/icons/queries/
+    - assets/images/chat/
+    - assets/images/onboarding/
+    - assets/images/call/
+    - assets/images/rewards/
+    - assets/images/queries/
+    - assets/images/big_rewards/
+    - assets/animations/
+    - assets/images/themes/
+    - assets/images/survey/
+    - assets/pdfs/
+    - shorebird.yaml

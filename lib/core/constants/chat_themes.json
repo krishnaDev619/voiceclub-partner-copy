@@ -1,0 +1,126 @@
+{
+  "data": {
+    "themes": [
+      {
+        "id": "defaultTheme",
+        "displayName": "Default",
+        "assetPath": "assets/images/themes/chat_background.png",
+        "colors": {
+          "appBarBackground": "#EE6464",
+          "appBarContent": "#FFFFFF",
+          "primary": "#EE6464",
+          "secondaryBubble": "#FFFFFF"
+        },
+        "statusBarIconBrightness": "light"
+      },
+      {
+        "id": "green",
+        "displayName": "Green",
+        "assetPath": "assets/images/themes/green.png",
+        "colors": {
+          "appBarBackground": "#87D5DA",
+          "appBarContent": "#FFFFFF",
+          "primary": "#87D5DA",
+          "secondaryBubble": "#FFFFFF"
+        },
+        "statusBarIconBrightness": "light"
+      },
+      {
+        "id": "purple",
+        "displayName": "Purple",
+        "assetPath": "assets/images/themes/purple.png",
+        "colors": {
+          "appBarBackground": "#C9A9FF",
+          "appBarContent": "#FFFFFF",
+          "primary": "#C9A9FF",
+          "secondaryBubble": "#FFFFFF"
+        },
+        "statusBarIconBrightness": "light"
+      }, 
+      {
+        "id": "pehlaPyaar",
+        "displayName": "Pehla Pyaar",
+        "assetPath": "assets/images/themes/pehla_pyaar.png",
+        "colors": {
+          "appBarBackground": "#EA658E",
+          "appBarContent": "#FFFFFF",
+          "primary": "#EA658E",
+          "secondaryBubble": "#FFF2F6"
+        },
+        "statusBarIconBrightness": "light"
+      },   
+      {
+        "id": "chocolate",
+        "displayName": "Chocolate",
+        "assetPath": "assets/images/themes/chocolate.png",
+        "colors": {
+          "appBarBackground": "#492A01",
+          "appBarContent": "#FFFFFF",
+          "primary": "#B99177",
+          "secondaryBubble": "#FFCEAF"
+        },
+        "statusBarIconBrightness": "light"
+      },
+      {
+        "id": "jungleeRaat",
+        "displayName": "Junglee Raat",
+        "assetPath": "assets/images/themes/junglee_raat.png",
+        "colors": {
+          "appBarBackground": "#0E1971",
+          "appBarContent": "#FFFFFF",
+          "primary": "#AFCAFF",
+          "secondaryBubble": "#DAE7FF"
+        },
+        "statusBarIconBrightness": "light"
+      },
+      {
+        "id": "kissMiss",
+        "displayName": "Kiss Miss",
+        "assetPath": "assets/images/themes/kiss_miss.png",
+        "colors": {
+          "appBarBackground": "#FF89B7",
+          "appBarContent": "#FFFFFF",
+          "primary": "#F8468D",
+          "secondaryBubble": "#FFDFEB"
+        },
+        "statusBarIconBrightness": "dark"
+      },
+      {
+        "id": "loveIsland",
+        "displayName": "Love Island",
+        "assetPath": "assets/images/themes/love_island.png",
+        "colors": {
+          "appBarBackground": "#FFDBA5",
+          "appBarContent": "#000000",
+          "primary": "#419C9D",
+          "secondaryBubble": "#83D2D3"
+        },
+        "statusBarIconBrightness": "dark"
+      },
+      {
+        "id": "dilwale",
+        "displayName": "Dilwale",
+        "assetPath": "assets/images/themes/dilwale.png",
+        "colors": {
+          "appBarBackground": "#FFEECC",
+          "appBarContent": "#000000",
+          "primary": "#FF5A68",
+          "secondaryBubble": "#FFE6E8"
+        },
+        "statusBarIconBrightness": "dark"
+      },
+      {
+        "id": "chandniRaat",
+        "displayName": "Chandni Raat",
+        "assetPath": "assets/images/themes/chandni_raat.png",
+        "colors": {
+          "appBarBackground": "#07425B",
+          "appBarContent": "#FFFFFF",
+          "primary": "#5D9FB9",
+          "secondaryBubble": "#EAF9FF"
+        },
+        "statusBarIconBrightness": "light"
+      }
+    ]
+  }
+}

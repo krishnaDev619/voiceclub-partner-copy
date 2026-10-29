@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236042385627",
+    "project_id": "voiceclubdev",
+    "storage_bucket": "voiceclubdev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236042385627:android:f1461894ae1a3536b074fe",
+        "android_client_info": {
+          "package_name": "com.cplock.voiceclub_partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxh_gUdgG6k8JSN0q61jx7pe7CqZb5c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236042385627:android:1b11af2244184cf0b074fe",
+        "android_client_info": {
+          "package_name": "com.example.voiceclub_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxh_gUdgG6k8JSN0q61jx7pe7CqZb5c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

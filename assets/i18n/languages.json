@@ -1,0 +1,91 @@
+{
+  "languages": [
+    {
+      "code": "hi",
+      "name": "हिन्दी",
+      "icon": "assets/images/languages/hin_language.svg",
+      "app_language": "Hindi",
+      "arb_url": "https://mock.local/i18n/hi.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "ta",
+      "name": "தமிழ்",
+      "icon": "assets/images/languages/ta_language.svg",
+      "app_language": "Tamil",
+      "arb_url": "https://mock.local/i18n/ta.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "te",
+      "name": "తెలుగు",
+      "icon": "assets/images/languages/te_language.svg",
+      "app_language": "Telugu",
+      "arb_url": "https://mock.local/i18n/te.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "kn",
+      "name": "ಕನ್ನಡ",
+      "app_language": "Kannada",
+      "arb_url": "https://mock.local/i18n/kn.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "ml",
+      "name": "മലയാളം",
+      "app_language": "Malayalam",
+      "arb_url": "https://mock.local/i18n/ml.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "mr",
+      "name": "मराठी",
+      "app_language": "Marathi",
+      "arb_url": "https://mock.local/i18n/mr.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "bn",
+      "name": "বাংলা",
+      "app_language": "Bengali",
+      "arb_url": "https://mock.local/i18n/bn.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "pa",
+      "name": "ਪੰਜਾਬੀ",
+      "app_language": "Punjabi",
+      "arb_url": "https://mock.local/i18n/pa.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "or",
+      "name": "ଓଡ଼ିଆ",
+      "app_language": "Odia",
+      "arb_url": "https://mock.local/i18n/or.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "gu",
+      "name": "ગુજરાતી",
+      "app_language": "Gujarati",
+      "arb_url": "https://mock.local/i18n/gu.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "ur",
+      "name": "اردو",
+      "app_language": "Urdu",
+      "arb_url": "https://mock.local/i18n/ur.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    },
+    {
+      "code": "bho",
+      "name": "भोजपुरी",
+      "app_language": "Bhojpuri",
+      "arb_url": "https://mock.local/i18n/bho.arb",
+      "last_updated": "2026-10-07T09:49:54Z"
+    }
+  ]
+}

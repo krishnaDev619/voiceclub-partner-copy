@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "293379979823",
+    "project_id": "voiceclub-8e2e1",
+    "storage_bucket": "voiceclub-8e2e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293379979823:android:d861947ceadd0940d724da",
+        "android_client_info": {
+          "package_name": "com.cplock.voice_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293379979823-1lde5gf3ahrs4e3fgndjjl1pnqrcqisj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cplock.voice_club",
+            "certificate_hash": "0bb7661cca24d3cb22b07f2be115bc2981393aaf"
+          }
+        },
+        {
+          "client_id": "293379979823-6hl9r2ave3n5gbs4iltp4i8cuutsfiu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cplock.voice_club",
+            "certificate_hash": "ef85cacbd2108f6e14f5151c4be7a3fbd4da70e6"
+          }
+        },
+        {
+          "client_id": "293379979823-7a106pdmbbiphfanj0l9ue8bnfbg6t2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cplock.voice_club",
+            "certificate_hash": "f69a73d57e766213ef0cd88bcb9623ffd5c02aba"
+          }
+        },
+        {
+          "client_id": "293379979823-hpm5fkvc1vhbo6sdbiadvtg7na1om6oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cplock.voice_club",
+            "certificate_hash": "f8502448606d3e0053103f121b9e03618f071541"
+          }
+        },
+        {
+          "client_id": "293379979823-bp5boe5oikakq33hi0343nbp49ogonag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9uV1SwCJ26gvquB9Smxb2ZJdOk2UADs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293379979823-bp5boe5oikakq33hi0343nbp49ogonag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293379979823:android:2625af25e9f92ebfd724da",
+        "android_client_info": {
+          "package_name": "com.cplock.voiceclub_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293379979823-bp5boe5oikakq33hi0343nbp49ogonag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9uV1SwCJ26gvquB9Smxb2ZJdOk2UADs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293379979823-bp5boe5oikakq33hi0343nbp49ogonag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

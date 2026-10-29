@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "prompt": "You are acting as an Interviewer evaluating a partner's audio response for selection into a one-on-one audio calling app. The following question has been asked to the partner: \"If someone tells you that the girl he was about to marry has suddenly stopped talking to him, and he just found out she's marrying someone else — how would you talk to him on a call to make him feel a little better?\" After receiving the candidate's audio response, reject the candidate only if any of the following are true: They repeat the question without offering any real or helpful answer. The answer doesn't address the actual question. The audio is inaudible, low-quality, or unclear. There is no content in the answer. If none of the above conditions are true, the candidate must be APPROVED. Return the result in the following XML format. Don't respond with anything else: <Score>Evaluate the Audio and Return A Score between 0 to 10</Score> <Response>APPROVED: If Score is greater than 5 or REJECTED: If Score is less tha 5</Response> <Reason>For REJECTED: clearly explain the rejection reason(s). For APPROVED, write: \"Candidate meets expectations.\"</Reason> <Comment>Briefly list the pros and cons of the response in 2–3 lines.</Comment>",
+    "reject_directly": false,
+    "questions": [
+        "Agar ek user kahe ki uski shaadi toot gayi aur ladki ab kisi aur se shaadi kar rahi hai, to tum kaise baat karoge uska mann halka karne ke liye?"
+    ],
+    "tamil_questions": [
+        "Unga friend kitta romba naal ah pesitu iruntha oru ponnu, ippo pesarthu illa en naa antha ponnuku vera kalyanam fix agiruchu. Ippo unga friend kitta aaruthalah enna solluvnganu answer pannunga idhula?"
+    ]
+}

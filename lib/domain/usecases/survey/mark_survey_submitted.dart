@@ -1,0 +1,24 @@
+import 'package:voiceclub_partner/core/resources/data_state.dart';
+import 'package:voiceclub_partner/core/resources/usecase/usecase.dart';
+import 'package:voiceclub_partner/domain/repository/survey_repository.dart';
+
+class MarkSurveySubmitted
+    implements UseCase<DataState<void>, MarkSurveySubmittedParams> {
+  final SurveyRepository _surveyRepository;
+
+  MarkSurveySubmitted(this._surveyRepository);
+  @override
+  Future<DataState<void>> call(MarkSurveySubmittedParams params) async {
+    return _surveyRepository.markSurveyAsSubmitted(
+      userId: params.userId,
+      surveyId: params.surveyId,
+    );
+  }
+}
+
+class MarkSurveySubmittedParams {
+  final String userId;
+  final String surveyId;
+
+  MarkSurveySubmittedParams({required this.userId, required this.surveyId});
+}
